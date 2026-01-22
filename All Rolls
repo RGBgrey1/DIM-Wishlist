@@ -1,14 +1,69 @@
 Duty Bound
 dimwishlist:item=260532765&perks=848860060,573122728#notes:precision pve
-dimwishlist:item=260532765&perks=3914874605,956288240#notes:multi-kill pve
-dimwishlist:item=260532765&perks=848860060,122204356#notes:general pve
+dimwishlist:item=260532765&perks=3914874605,288411554#notes:multi-kill pve
+Duty Bound (*)
 dimwishlist:item=89693562&perks=848860060,573122728#notes:precision pve
-dimwishlist:item=89693562&perks=3914874605,956288240#notes:multi-kill pve
-dimwishlist:item=89693562&perks=848860060,122204356#notes:general pve
+dimwishlist:item=89693562&perks=3914874605,288411554#notes:multi-kill pve
 Nox Sidereal IV
-dimwishlist:item=2875763009&perks=1906147653,2078520142#notes:stasis grenade pve
+dimwishlist:item=2875763009&perks=1906147653,2078520142#notes:stasis pve
 dimwishlist:item=2875763009&perks=1906147653,2422968039#notes:grenade pve
-dimwishlist:item=2875763009&perks=3797647183,2963273944#notes:rapid kill pve
-dimwishlist:item=74733286&perks=1906147653,2078520142#notes:stasis grenade pve
+dimwishlist:item=2875763009&perks=3797647183,2963273944#notes:general pve
+Nox Sidereal IV (*)
+dimwishlist:item=74733286&perks=1906147653,2078520142#notes:stasis pve
 dimwishlist:item=74733286&perks=1906147653,2422968039#notes:grenade pve
-dimwishlist:item=74733286&perks=3797647183,2963273944#notes:rapid kill pve
+dimwishlist:item=74733286&perks=3797647183,2963273944#notes:general pve
+Riptide
+dimwishlist:item=2297554989&perks=2682205016,344235611#notes:general pve
+dimwishlist:item=2297554989&perks=3528046508,3418165135#notes:boss dmg pve
+Riptide (*)
+dimwishlist:item=1323862250&perks=2682205016,344235611#notes:general pve
+dimwishlist:item=1323862250&perks=3528046508,3418165135#notes:boss dmg pve
+Gizmo Weft
+dimwishlist:item=4069880346&perks=3422796781,2282937672#notes:strand pve
+dimwishlist:item=4069880346&perks=2167611941,598607952#notes:multi-kill pve
+dimwishlist:item=4069880346&perks=191144788,2282937672#notes:pvp
+Permafrost
+dimwishlist:item=2316331767&perks=2617553311,2078520142#notes:stasis pve
+dimwishlist:item=2316331767&perks=1906147653,2422968039#notes:grenade pve
+Modified B-7 Pistol
+dimwishlist:item=3146657388&perks=1183436451,1171887445#notes:solar precision pve
+dimwishlist:item=3146657388&perks=2617553311,1171887445#notes:stasis pve
+dimwishlist:item=3146657388&perks=1341464476,2889515627#notes:pvp
+Modified B-7 Pistol (*)
+dimwishlist:item=1872906663&perks=1183436451,1171887445#notes:solar precision pve
+dimwishlist:item=1872906663&perks=2617553311,1171887445#notes:stasis pve
+dimwishlist:item=1872906663&perks=1341464476,2889515627#notes:pvp
+All Or Nothing
+dimwishlist:item=3984776322&perks=1183436451,3244229373#notes:solar precision pve
+dimwishlist:item=3984776322&perks=3422796781,102912326#notes:strand pve
+dimwishlist:item=3984776322&perks=2039482529,639190697#notes:general pve
+All Or Nothing (*)
+dimwishlist:item=2023002233&perks=1183436451,3244229373#notes:solar precision pve
+dimwishlist:item=2023002233&perks=3422796781,102912326#notes:strand pve
+dimwishlist:item=2023002233&perks=2039482529,639190697#notes:general pve
+Hawthorne's Field-Forged Shotgun
+dimwishlist:item=1402874079&perks=1172098417,1370847713#notes:pvp
+dimwishlist:item=1402874079&perks=494941759,344235611#notes:stasis pve
+dimwishlist:item=1402874079&perks=402033656,2963273944#notes:melee pve
+Conspiracy Honed
+dimwishlist:item=4062069077&perks=1171887445,1183436451#notes:solar precision pve
+dimwishlist:item=4062069077&perks=1341464476,23371658#notes:pvp
+dimwishlist:item=4062069077&perks=3418165135,3744057135#notes:boss dmg pve
+Something Something
+dimwishlist:item=3421075982&perks=573122728,1549370717#notes:general pve
+dimwishlist:item=3421075982&perks=3974407819,23371658#notes:pvp
+Something Something (*)
+dimwishlist:item=690412397&perks=573122728,1549370717#notes:general pve
+dimwishlist:item=690412397&perks=3974407819,23371658#notes:pvp
+M-17 "Fast Talker"
+dimwishlist:item=1419158093&perks=984655331,2939589096#notes:sustained dmg pve
+dimwishlist:item=1419158093&perks=1906147653,2078520142#notes:stasis grenade pve
+dimwishlist:item=1419158093&perks=1409206216,639190697#notes:general pve
+M-17 "Fast Talker" (*)
+dimwishlist:item=2770035786&perks=984655331,2939589096#notes:sustained dmg pve
+dimwishlist:item=2770035786&perks=1906147653,2078520142#notes:stasis grenade pve
+dimwishlist:item=2770035786&perks=1409206216,639190697#notes:general pve
+Peculiar Charm
+dimwishlist:item=3620277039&perks=984655331,1549370717#notes:sustained dmg pve
+dimwishlist:item=3620277039&perks=2938480696,1183436451#notes:solar precision pve
+dimwishlist:item=3620277039&perks=2938480696,624891305#notes:precision pve
