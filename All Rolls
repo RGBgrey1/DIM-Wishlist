@@ -26,11 +26,11 @@ Permafrost
 dimwishlist:item=2316331767&perks=2617553311,2078520142#notes:stasis pve
 dimwishlist:item=2316331767&perks=1906147653,2422968039#notes:grenade pve
 Modified B-7 Pistol
-dimwishlist:item=3146657388&perks=1183436451,1171887445#notes:solar precision pve
+dimwishlist:item=3146657388&perks=1183436451,1171887445#notes:solar stasis precision pve
 dimwishlist:item=3146657388&perks=2617553311,1171887445#notes:stasis pve
 dimwishlist:item=3146657388&perks=1341464476,2889515627#notes:pvp
 Modified B-7 Pistol (*)
-dimwishlist:item=1872906663&perks=1183436451,1171887445#notes:solar precision pve
+dimwishlist:item=1872906663&perks=1183436451,1171887445#notes:solar stasis precision pve
 dimwishlist:item=1872906663&perks=2617553311,1171887445#notes:stasis pve
 dimwishlist:item=1872906663&perks=1341464476,2889515627#notes:pvp
 All Or Nothing
@@ -46,7 +46,7 @@ dimwishlist:item=1402874079&perks=1172098417,1370847713#notes:pvp
 dimwishlist:item=1402874079&perks=494941759,344235611#notes:stasis pve
 dimwishlist:item=1402874079&perks=402033656,2963273944#notes:melee pve
 Conspiracy Honed
-dimwishlist:item=4062069077&perks=1171887445,1183436451#notes:solar precision pve
+dimwishlist:item=4062069077&perks=1171887445,1183436451#notes:solar stasis precision pve
 dimwishlist:item=4062069077&perks=1341464476,23371658#notes:pvp
 dimwishlist:item=4062069077&perks=3418165135,3744057135#notes:boss dmg pve
 Something Something
@@ -67,3 +67,126 @@ Peculiar Charm
 dimwishlist:item=3620277039&perks=984655331,1549370717#notes:sustained dmg pve
 dimwishlist:item=3620277039&perks=2938480696,1183436451#notes:solar precision pve
 dimwishlist:item=3620277039&perks=2938480696,624891305#notes:precision pve
+Zealous Ideal
+dimwishlist:item=1863583117&perks=4223976499,2675184851#notes:solar multi-kill pve
+dimwishlist:item=1863583117&perks=3060983774,3581929919#notes:sustained solar boss dmg pve
+dimwishlist:item=1863583117&perks=1341464476,1523649716#notes:pvp
+Monody-44
+dimwishlist:item=3201200906&perks=2541826827,1926441324#notes:void pve
+dimwishlist:item=3201200906&perks=4245865861,617966211#notes:general pve
+Motif-41
+dimwishlist:item=1685533876&perks=4223976499,1906147653#notes:grenade pve
+dimwishlist:item=1685533876&perks=561986700,2675184851#notes:solar pve
+dimwishlist:item=1685533876&perks=2675361166,2963273944#notes:general pve
+Mos Athanor IV
+dimwishlist:item=4118334987&perks=1926441324,2813913866#notes:void pve
+dimwishlist:item=4118334987&perks=2396422520,1370847713#notes:pvp
+Mos Athanor IV (*)
+dimwishlist:item=1288422452&perks=1926441324,2813913866#notes:void pve
+dimwishlist:item=1288422452&perks=2396422520,1370847713#notes:pvp
+Sarpedon-D
+dimwishlist:item=1242785638&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=1242785638&perks=2785334058,1720528630#notes:amplified arc pve
+dimwishlist:item=1242785638&perks=3416609154,2459015849#notes:melee pvp
+Sarpedon-D (*)
+dimwishlist:item=3318545829&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=3318545829&perks=2785334058,1720528630#notes:amplified arc pve
+dimwishlist:item=3318545829&perks=3416609154,2459015849#notes:melee pvp
+Uncivil Discourse
+dimwishlist:item=3146657389&perks=3198323828,332733060#notes:ranged precision pve
+dimwishlist:item=3146657389&perks=1341464476,1370847713#notes:pvp
+dimwishlist:item=3146657389&perks=1347741687,2799030358#notes:general pve
+Uncivil Discourse (*)
+dimwishlist:item=2462965802&perks=3198323828,332733060#notes:ranged precision pve
+dimwishlist:item=2462965802&perks=1341464476,1370847713#notes:pvp
+dimwishlist:item=2462965802&perks=1347741687,2799030358#notes:general pve
+High Tyrant
+dimwishlist:item=2873508409&perks=1926441324,2813913866#notes:void pve
+dimwishlist:item=2873508409&perks=2938480696,4045335048#notes:precision pve
+dimwishlist:item=2873508409&perks=1906147653,4196156997#notes:general pve
+Horror's Least
+dimwishlist:item=827835657&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=827835657&perks=65604327,717070634#notes:amplified arc pve
+dimwishlist:item=827835657&perks=2748258257,288411554#notes:general pve
+Horror's Least (*)
+dimwishlist:item=1018012078&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=1018012078&perks=65604327,717070634#notes:amplified arc pve
+dimwishlist:item=1018012078&perks=2748258257,288411554#notes:general pve
+Psi Aeterna IV
+dimwishlist:item=3556730800&perks=1115162408,3218042543#notes:bolt charge arc pve
+dimwishlist:item=3556730800&perks=563069569,4049631843#notes:general pve
+dimwishlist:item=3556730800&perks=1017229899,11612903#notes:grenade pve
+Psi Aeterna IV (*)
+dimwishlist:item=135971347&perks=1115162408,3218042543#notes:bolt charge arc pve
+dimwishlist:item=135971347&perks=563069569,4049631843#notes:general pve
+dimwishlist:item=135971347&perks=1017229899,11612903#notes:grenade pve
+Oxygen SR3
+dimwishlist:item=4104613038&perks=536173722,3684445958#notes:melee pve
+dimwishlist:item=4104613038&perks=4223976499,3581929919#notes:solar pve
+dimwishlist:item=4104613038&perks=2938480696,4196156997#notes:precision pve
+Oxygen SR3 (*)
+dimwishlist:item=444627789&perks=536173722,3684445958#notes:melee pve
+dimwishlist:item=444627789&perks=4223976499,3581929919#notes:solar pve
+dimwishlist:item=444627789&perks=2938480696,4196156997#notes:precision pve
+Voltaic Shade
+dimwishlist:item=71057630&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=71057630&perks=2938480696,4196156997#notes:precision pve
+dimwishlist:item=71057630&perks=717070634,1720528630#notes:jolt arc pve
+Compact Defender
+dimwishlist:item=2819552809&perks=1926441324,2541826827#notes:void pve
+dimwishlist:item=2819552809&perks=820036316,2799030358#notes:melee pve
+dimwishlist:item=2819552809&perks=509594246,3590359704#notes:general pve
+Compact Defender (*)
+dimwishlist:item=2659286158&perks=1926441324,2541826827#notes:void pve
+dimwishlist:item=2659286158&perks=820036316,2799030358#notes:melee pve
+dimwishlist:item=2659286158&perks=509594246,3590359704#notes:general pve
+Evening SI4
+dimwishlist:item=1763361847&perks=4223976499,2675184851#notes:solar pve
+dimwishlist:item=1763361847&perks=4245865861,4045335048#notes:general pve
+dimwishlist:item=1763361847&perks=820036316,3684445958#notes:melee pve
+Evening SI4 (*)
+dimwishlist:item=3618823368&perks=4223976499,2675184851#notes:solar pve
+dimwishlist:item=3618823368&perks=4245865861,4045335048#notes:general pve
+dimwishlist:item=3618823368&perks=820036316,3684445958#notes:melee pve
+Fimbulwinter Stich
+dimwishlist:item=2645567209&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=2645567209&perks=3684445958,2562668800#notes:elemental pickups pve
+A Good Shout
+dimwishlist:item=3615748501&perks=2541826827,1926441324#notes:void pve
+dimwishlist:item=3615748501&perks=2904194311,23371658#notes:sniper pve
+dimwishlist:item=3615748501&perks=2817499044,2140591236#notes:boss dmg pve
+A Good Shout (*)
+dimwishlist:item=649691506&perks=2541826827,1926441324#notes:void pve
+dimwishlist:item=649691506&perks=2904194311,23371658#notes:sniper pve
+dimwishlist:item=649691506&perks=2817499044,2140591236#notes:boss dmg pve
+Mistral Lift
+dimwishlist:item=270610849&perks=2817499044,3744057135#notes:boss dmg pve
+dimwishlist:item=270610849&perks=1183436451,254337357#notes:general pve
+Bitter End
+dimwishlist:item=954563454&perks=511499160,2633604463#notes:bolt charge arc pve
+dimwishlist:item=954563454&perks=984655331,717070634#notes:sustained arc dmg pve
+dimwishlist:item=954563454&perks=4200236906,2896748467#notes:general pve
+Qua Vinctus IV
+dimwishlist:item=337893613&perks=1906147653,3120212825#notes:grenade class pve
+dimwishlist:item=337893613&perks=573122728,4196156997#notes:precision pve
+dimwishlist:item=337893613&perks=102912326,3244229373#notes:strand pve
+Qua Vinctus IV (*)
+dimwishlist:item=4176551594&perks=1906147653,3120212825#notes:ability regen pve
+dimwishlist:item=4176551594&perks=573122728,4196156997#notes:precision pve
+dimwishlist:item=4176551594&perks=102912326,3244229373#notes:strand pve
+Refurbished A499
+dimwishlist:item=3661051060&perks=1347741687,3797647183#notes:general pve
+dimwishlist:item=3661051060&perks=4200236906,3192447905#notes:boss dmg pve
+dimwishlist:item=3661051060&perks=3914874605,2138673996#notes:burst dmg pve
+Refurbished A499 (*)
+dimwishlist:item=593808239&perks=1347741687,3797647183#notes:general pve
+dimwishlist:item=593808239&perks=4200236906,3192447905#notes:boss dmg pve
+dimwishlist:item=593808239&perks=3914874605,2138673996#notes:burst dmg pve
+Eighty-Six
+dimwishlist:item=2344383760&perks=3422796781,102912326#notes:strand pve
+dimwishlist:item=2344383760&perks=1661646271,984655331#notes:sustained dmg pve
+dimwishlist:item=2344383760&perks=4085959009,1545231802#notes:multi-kill pve
+Sullen Claw
+dimwishlist:item=1085743380&perks=3418165135,1145640183#notes:boss dmg pve
+dimwishlist:item=1085743380&perks=2541826827,1926441324#notes:void pve
+dimwishlist:item=1085743380&perks=4085959009,639190697#notes:multi-kill pve
